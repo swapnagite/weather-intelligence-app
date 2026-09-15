@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Real-time weather data, 7-day interactive forecasts, and smart daily planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
