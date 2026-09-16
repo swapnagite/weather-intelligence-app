@@ -3,7 +3,7 @@
 A single-page web application designed to fetch real-time weather data and 7-day forecasts using the public Open-Meteo API, providing dynamic daily planning recommendations.
 
 ## Live Application
-- **Cloudflare Pages URL:** `https://<your-app-name>.pages.dev`
+- **Cloudflare Pages URL:** [`https://<your-app-name>.pages.dev`](https://weather-intelligence-app-c1o.pages.dev/)
 
 ## Tech Stack & APIs
 - **Frontend Framework:** React, Vite, TypeScript
